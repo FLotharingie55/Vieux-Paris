@@ -1,0 +1,96 @@
+body {
+  background-color: #3a2f2d;
+  h3 {
+    color: #ffffe0;
+    font-size: 3em;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    span {
+      font-family: "Lobster", cursive;
+      font-style: italic;
+      background: -webkit-linear-gradient(#2c75ff, #fefee0, #fe1b00);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  }
+}
+
+.photos-de-paris {
+  img {
+    width: 100%;
+    height: 17rem;
+    object-fit: cover;
+  }
+  .paris-damia {
+    figure {
+      display: flex;
+      margin: 0;
+
+      figcaption {
+        margin-bottom: 14%;
+
+        p {
+          font-size: 2.7rem;
+          color: #048b9a;
+        }
+      }
+    }
+  }
+  .paris-1925 {
+    object-fit: cover;
+    figcaption {
+      p {
+        color: #048b9a;
+        font-size: 2em;
+      }
+    }
+    .tres-bruyant {
+      color: #0000ff;
+      text-decoration: line-through;
+    }
+    div {
+      width: 80%;
+      margin: auto;
+      color: #fe1b00;
+    }
+    .assourdissant1 {
+      font-size: 4em;
+    }
+    .assourdissant2 {
+      font-size: 5em;
+    }
+    .assourdissant3 {
+      font-size: 6em;
+    }
+    .assourdissant4 {
+      font-size: 8em;
+    }
+    .assourdissant5 {
+      font-size: 10em;
+    }
+    .assourdissant6 {
+      font-size: 11em;
+    }
+    .assourdissant7 {
+      font-size: 10em;
+    }
+    .assourdissant8 {
+      font-size: 8em;
+    }
+    .assourdissant9 {
+      font-size: 7em;
+    }
+    .assourdissant10 {
+      font-size: 6em;
+    }
+    .assourdissant11 {
+      font-size: 3em;
+    }
+    .assourdissant12 {
+      font-size: 1em;
+    }
+    .assourdissant13 {
+      font-size: 0.25em;
+    }
+  }
+}
