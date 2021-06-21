@@ -1,5 +1,8 @@
 body {
   background-color: #3a2f2d;
+  a {
+    text-decoration: none;
+  }
   h3 {
     color: #ffffe0;
     font-size: 3em;
@@ -25,7 +28,6 @@ body {
     figure {
       display: flex;
       margin: 0;
-
       figcaption {
         margin-bottom: 14%;
 
@@ -44,53 +46,10 @@ body {
         font-size: 2em;
       }
     }
-    .tres-bruyant {
-      color: #0000ff;
-      text-decoration: line-through;
-    }
     div {
       width: 80%;
       margin: auto;
-      color: #fe1b00;
-    }
-    .assourdissant1 {
-      font-size: 4em;
-    }
-    .assourdissant2 {
-      font-size: 5em;
-    }
-    .assourdissant3 {
-      font-size: 6em;
-    }
-    .assourdissant4 {
-      font-size: 8em;
-    }
-    .assourdissant5 {
-      font-size: 10em;
-    }
-    .assourdissant6 {
-      font-size: 11em;
-    }
-    .assourdissant7 {
-      font-size: 10em;
-    }
-    .assourdissant8 {
-      font-size: 8em;
-    }
-    .assourdissant9 {
-      font-size: 7em;
-    }
-    .assourdissant10 {
-      font-size: 6em;
-    }
-    .assourdissant11 {
-      font-size: 3em;
-    }
-    .assourdissant12 {
-      font-size: 1em;
-    }
-    .assourdissant13 {
-      font-size: 0.25em;
+      color: #2c75ff;
     }
   }
 }
